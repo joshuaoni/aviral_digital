@@ -1,0 +1,33 @@
+.card {
+  background: white;
+  padding: 40px 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.description {
+  color: #626262;
+  font-size: 16px;
+  height: 100px;
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.btn {
+  color: #f56b25;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
