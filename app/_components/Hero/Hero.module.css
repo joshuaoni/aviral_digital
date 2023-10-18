@@ -68,4 +68,8 @@
   .bottom_content {
     padding: 30px;
   }
+
+  .title {
+    font-size: 50px;
+  }
 }
